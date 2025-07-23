@@ -109,6 +109,7 @@ li .remove-btn {
 
 li .remove-btn:hover {
     background-color: #b71c1c; 
+}
 
 .completed {
     text-decoration: line-through;
